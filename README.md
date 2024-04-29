@@ -1,8 +1,8 @@
 # Predicting-Application-Rating-of-Google-Play-Store
 
-In data folder there is 2 file 
-  Application Information
-  Application Reviews 
+In data folder, there are 2 file,
+a  Application Information
+b Application Reviews 
 
 Phases of this project
   1) Data cleaning of Application information - ( We have use Imputation for NaN rating which is in Data Cleaning of Application Infornmation folder. Moreover other cleaning is done in Smarten so there is no Code)
